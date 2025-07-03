@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "vscjava.vscode-java-pack",
+        "fwcd.kotlin",
+        "ms-vscode.gradle",
+        "adelphes.android-dev-ext",
+        "DiemasMichiels.emulate",
+        "redhat.java",
+        "vscjava.vscode-gradle",
+        "ms-vscode.vscode-json"
+    ]
+}

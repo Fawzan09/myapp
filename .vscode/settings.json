@@ -1,0 +1,23 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.gradle.wrapper.enabled": true,
+    "java.import.gradle.enabled": true,
+    "java.import.gradle.wrapper.enabled": true,
+    "kotlin.compiler.jvm.target": "1.8",
+    "files.exclude": {
+        "**/build": true,
+        "**/.gradle": true,
+        "**/local.properties": true
+    },
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-1.8",
+            "path": "/usr/lib/jvm/java-8-openjdk-amd64"
+        }
+    ],
+    "android.sdk.path": "${env:ANDROID_HOME}",
+    "terminal.integrated.env.linux": {
+        "ANDROID_HOME": "${env:ANDROID_HOME}",
+        "PATH": "${env:PATH}:${env:ANDROID_HOME}/tools:${env:ANDROID_HOME}/platform-tools"
+    }
+}

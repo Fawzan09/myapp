@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Phi-1 AI Assistant</string>
+    <string name="chat_title">Chat with Phi-1</string>
+    <string name="settings_title">Settings</string>
+    <string name="message_hint">Type your message...</string>
+    <string name="send">Send</string>
+    <string name="loading_model">Loading AI model...</string>
+    <string name="model_ready">AI model ready</string>
+    <string name="biometric_prompt_title">Secure Access Required</string>
+    <string name="biometric_prompt_subtitle">Use your biometric credential to access the AI assistant</string>
+    <string name="biometric_prompt_cancel">Cancel</string>
+    <string name="error_model_loading">Failed to load AI model</string>
+    <string name="error_generation">Error generating response</string>
+    <string name="security_warning">Security warning detected</string>
+    <string name="welcome_message">Hello! I\'m Phi-1, your local AI assistant. I\'m running entirely on your device, so your conversations are private and secure. How can I help you today?</string>
+</resources>
